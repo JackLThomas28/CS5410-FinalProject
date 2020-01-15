@@ -1,7 +1,7 @@
 # Final Project for CS5410 - Game Development, Spring 2018 
 
 ### A web based, 2-dimensional, battle royale game created by Bobby Handley and Jack Thomas
-
+[![Run on Repl.it](https://repl.it/badge/github/JackLThomas28/BattleRoyale)](https://repl.it/github/JackLThomas28/BattleRoyale)
 <img src="ScreenShot.png" alt="Game play" width="75%" height="auto"/>
 
 ### To run the game:
